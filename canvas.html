@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Canvas Tag</title>
+<style>
+canvas{
+border:4px solid black
+}
+</style>
+</head>
+<body>
+<p>A canvas element is displayed like this:</p>
+<canvas id="myCanvas">Your browser does not support the HTML5 canvas tag.</canvas>
+<script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.fillStyle = "yellow";
+ctx.fillRect(0, 0, 400, 400);
+</script>
+<p>Change the default CSS settings to see the effect.</p>
+</body>
+</html>

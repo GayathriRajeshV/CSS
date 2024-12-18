@@ -1,0 +1,59 @@
+
+<html>
+<head>
+<style>
+</style>
+</head>
+<body bgcolor="darkgrey">
+<img src="https://d3on3ztz3vi4v9.cloudfront.net/uploads/2014/12/Milwaukee-School-of-Engineering.jpg">
+<h3>Roscoe Raider</h3>
+Schedule for Spring 2015<br><br>
+<a href="file:///D:/gayathri/ibsar/sem_3/awd_lab/forms/assign5.html">My Record<a>
+<table border="4">
+
+<tr>
+<th></th>
+<th><font color="White"><i>Monday</i></th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+
+<tr>
+<td>8:00</td>
+<td></td>
+<td></td>
+<td rowspan="3" bgcolor="white">PH2030<br><lab></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>9:00</td>
+<td bgcolor="white">PH2030</td>
+<td bgcolor="white">PH2030</td>
+<td bgcolor="white">PH2030</td>
+<td></td>
+</tr>
+
+<tr>
+<td>10:00</td>
+<td bgcolor="purple">PH2040</td>
+<td bgcolor="purple">PH2040</td>
+<td bgcolor="purple">PH2040</td>
+<td></td>
+</tr>
+
+<tr>
+<td>11:00</td>
+<td bgcolor="green">PH2040</td>
+<td> </td>
+<td bgcolor="purple">PH2040</td>
+<td bgcolor="purple">PH2040</td>
+<td></td>
+</tr>
+</table>
+
+</body>
+</html>
